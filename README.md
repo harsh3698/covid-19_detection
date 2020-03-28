@@ -6,6 +6,6 @@ Refer these articles for better understanding
 
 1: https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 
-2: https://towardsdatascience.com/detecting-covid-19-induced-pneumonia-from-chest-x-rays-with-transfer-learning-an-implementation-311484e6afc1 for better understanding.
+2: https://towardsdatascience.com/detecting-covid-19-induced-pneumonia-from-chest-x-rays-with-transfer-learning-an-implementation-311484e6afc1
 
 Dataset link :https://drive.google.com/uc?id=1coM7x3378f-Ou2l6Pg2wldaOI7Dntu1a
